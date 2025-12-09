@@ -1236,5 +1236,8 @@ def create_cluster_grid(valid_files, clusters, n_clusters, results_dir, samples_
 
 
 if __name__ == '__main__':
+    # macOSでのmultiprocessingのフリーズを防ぐ
+    multiprocessing.freeze_support()
+    multiprocessing.set_start_method('spawn', force=True)
     main()
 
