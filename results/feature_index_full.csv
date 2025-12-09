@@ -1,0 +1,741 @@
+﻿index,name,category,temporal_stat,description,source
+0,mean_color_hist_R_bin0,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+1,mean_color_hist_R_bin1,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+2,mean_color_hist_R_bin2,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+3,mean_color_hist_R_bin3,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+4,mean_color_hist_R_bin4,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+5,mean_color_hist_R_bin5,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+6,mean_color_hist_R_bin6,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+7,mean_color_hist_R_bin7,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+8,mean_color_hist_R_bin8,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+9,mean_color_hist_R_bin9,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+10,mean_color_hist_R_bin10,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+11,mean_color_hist_R_bin11,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+12,mean_color_hist_R_bin12,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+13,mean_color_hist_R_bin13,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+14,mean_color_hist_R_bin14,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+15,mean_color_hist_R_bin15,Color Histogram,フレーム平均,フレーム平均: Rチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+16,mean_color_hist_G_bin0,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+17,mean_color_hist_G_bin1,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+18,mean_color_hist_G_bin2,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+19,mean_color_hist_G_bin3,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+20,mean_color_hist_G_bin4,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+21,mean_color_hist_G_bin5,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+22,mean_color_hist_G_bin6,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+23,mean_color_hist_G_bin7,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+24,mean_color_hist_G_bin8,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+25,mean_color_hist_G_bin9,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+26,mean_color_hist_G_bin10,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+27,mean_color_hist_G_bin11,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+28,mean_color_hist_G_bin12,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+29,mean_color_hist_G_bin13,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+30,mean_color_hist_G_bin14,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+31,mean_color_hist_G_bin15,Color Histogram,フレーム平均,フレーム平均: Gチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+32,mean_color_hist_B_bin0,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+33,mean_color_hist_B_bin1,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+34,mean_color_hist_B_bin2,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+35,mean_color_hist_B_bin3,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+36,mean_color_hist_B_bin4,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+37,mean_color_hist_B_bin5,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+38,mean_color_hist_B_bin6,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+39,mean_color_hist_B_bin7,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+40,mean_color_hist_B_bin8,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+41,mean_color_hist_B_bin9,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+42,mean_color_hist_B_bin10,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+43,mean_color_hist_B_bin11,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+44,mean_color_hist_B_bin12,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+45,mean_color_hist_B_bin13,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+46,mean_color_hist_B_bin14,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+47,mean_color_hist_B_bin15,Color Histogram,フレーム平均,フレーム平均: Bチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+48,mean_hsv_hist_H_bin0,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+49,mean_hsv_hist_H_bin1,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+50,mean_hsv_hist_H_bin2,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+51,mean_hsv_hist_H_bin3,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+52,mean_hsv_hist_H_bin4,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+53,mean_hsv_hist_H_bin5,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+54,mean_hsv_hist_H_bin6,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+55,mean_hsv_hist_H_bin7,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+56,mean_hsv_hist_H_bin8,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+57,mean_hsv_hist_H_bin9,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+58,mean_hsv_hist_H_bin10,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+59,mean_hsv_hist_H_bin11,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+60,mean_hsv_hist_H_bin12,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+61,mean_hsv_hist_H_bin13,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+62,mean_hsv_hist_H_bin14,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+63,mean_hsv_hist_H_bin15,HSV Histogram,フレーム平均,フレーム平均: HueチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+64,mean_hsv_hist_S_bin0,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+65,mean_hsv_hist_S_bin1,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+66,mean_hsv_hist_S_bin2,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+67,mean_hsv_hist_S_bin3,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+68,mean_hsv_hist_S_bin4,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+69,mean_hsv_hist_S_bin5,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+70,mean_hsv_hist_S_bin6,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+71,mean_hsv_hist_S_bin7,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+72,mean_hsv_hist_S_bin8,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+73,mean_hsv_hist_S_bin9,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+74,mean_hsv_hist_S_bin10,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+75,mean_hsv_hist_S_bin11,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+76,mean_hsv_hist_S_bin12,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+77,mean_hsv_hist_S_bin13,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+78,mean_hsv_hist_S_bin14,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+79,mean_hsv_hist_S_bin15,HSV Histogram,フレーム平均,フレーム平均: SaturationチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+80,mean_hsv_hist_V_bin0,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+81,mean_hsv_hist_V_bin1,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+82,mean_hsv_hist_V_bin2,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+83,mean_hsv_hist_V_bin3,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+84,mean_hsv_hist_V_bin4,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+85,mean_hsv_hist_V_bin5,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+86,mean_hsv_hist_V_bin6,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+87,mean_hsv_hist_V_bin7,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+88,mean_hsv_hist_V_bin8,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+89,mean_hsv_hist_V_bin9,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+90,mean_hsv_hist_V_bin10,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+91,mean_hsv_hist_V_bin11,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+92,mean_hsv_hist_V_bin12,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+93,mean_hsv_hist_V_bin13,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+94,mean_hsv_hist_V_bin14,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+95,mean_hsv_hist_V_bin15,HSV Histogram,フレーム平均,フレーム平均: ValueチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+96,mean_hu_moment_1,Hu Moments,フレーム平均,フレーム平均: Huモーメント 1: 回転・スケール・反転不変,OpenCV HuMoments
+97,mean_hu_moment_2,Hu Moments,フレーム平均,フレーム平均: Huモーメント 2: 回転・スケール不変,OpenCV HuMoments
+98,mean_hu_moment_3,Hu Moments,フレーム平均,フレーム平均: Huモーメント 3: 回転・スケール不変,OpenCV HuMoments
+99,mean_hu_moment_4,Hu Moments,フレーム平均,フレーム平均: Huモーメント 4: 回転・スケール不変,OpenCV HuMoments
+100,mean_hu_moment_5,Hu Moments,フレーム平均,フレーム平均: Huモーメント 5: 回転・スケール不変（符号反転あり）,OpenCV HuMoments
+101,mean_hu_moment_6,Hu Moments,フレーム平均,フレーム平均: Huモーメント 6: 回転・スケール不変（符号反転あり）,OpenCV HuMoments
+102,mean_hu_moment_7,Hu Moments,フレーム平均,フレーム平均: Huモーメント 7: 反転識別,OpenCV HuMoments
+103,mean_glcm_contrast_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM コントラスト（局所的な輝度変化）のmean,scikit-image graycoprops
+104,mean_glcm_contrast_std,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM コントラスト（局所的な輝度変化）のstd,scikit-image graycoprops
+105,mean_glcm_dissimilarity_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM 非類似度（隣接ピクセルの差）のmean,scikit-image graycoprops
+106,mean_glcm_dissimilarity_std,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM 非類似度（隣接ピクセルの差）のstd,scikit-image graycoprops
+107,mean_glcm_homogeneity_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM 均質性（局所的な均一性）のmean,scikit-image graycoprops
+108,mean_glcm_homogeneity_std,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM 均質性（局所的な均一性）のstd,scikit-image graycoprops
+109,mean_glcm_energy_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM エネルギー（テクスチャの均一性）のmean,scikit-image graycoprops
+110,mean_glcm_energy_std,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM エネルギー（テクスチャの均一性）のstd,scikit-image graycoprops
+111,mean_glcm_correlation_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM 相関（線形依存性）のmean,scikit-image graycoprops
+112,mean_glcm_correlation_std,GLCM (Gray Level Co-occurrence Matrix),フレーム平均,フレーム平均: GLCM 相関（線形依存性）のstd,scikit-image graycoprops
+113,mean_lbp_hist_bin0,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 0）- テクスチャパターン,scikit-image local_binary_pattern
+114,mean_lbp_hist_bin1,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 1）- テクスチャパターン,scikit-image local_binary_pattern
+115,mean_lbp_hist_bin2,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 2）- テクスチャパターン,scikit-image local_binary_pattern
+116,mean_lbp_hist_bin3,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 3）- テクスチャパターン,scikit-image local_binary_pattern
+117,mean_lbp_hist_bin4,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 4）- テクスチャパターン,scikit-image local_binary_pattern
+118,mean_lbp_hist_bin5,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 5）- テクスチャパターン,scikit-image local_binary_pattern
+119,mean_lbp_hist_bin6,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 6）- テクスチャパターン,scikit-image local_binary_pattern
+120,mean_lbp_hist_bin7,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 7）- テクスチャパターン,scikit-image local_binary_pattern
+121,mean_lbp_hist_bin8,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 8）- テクスチャパターン,scikit-image local_binary_pattern
+122,mean_lbp_hist_bin9,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 9）- テクスチャパターン,scikit-image local_binary_pattern
+123,mean_lbp_hist_bin10,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 10）- テクスチャパターン,scikit-image local_binary_pattern
+124,mean_lbp_hist_bin11,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 11）- テクスチャパターン,scikit-image local_binary_pattern
+125,mean_lbp_hist_bin12,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 12）- テクスチャパターン,scikit-image local_binary_pattern
+126,mean_lbp_hist_bin13,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 13）- テクスチャパターン,scikit-image local_binary_pattern
+127,mean_lbp_hist_bin14,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 14）- テクスチャパターン,scikit-image local_binary_pattern
+128,mean_lbp_hist_bin15,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 15）- テクスチャパターン,scikit-image local_binary_pattern
+129,mean_lbp_hist_bin16,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 16）- テクスチャパターン,scikit-image local_binary_pattern
+130,mean_lbp_hist_bin17,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 17）- テクスチャパターン,scikit-image local_binary_pattern
+131,mean_lbp_hist_bin18,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 18）- テクスチャパターン,scikit-image local_binary_pattern
+132,mean_lbp_hist_bin19,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 19）- テクスチャパターン,scikit-image local_binary_pattern
+133,mean_lbp_hist_bin20,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 20）- テクスチャパターン,scikit-image local_binary_pattern
+134,mean_lbp_hist_bin21,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 21）- テクスチャパターン,scikit-image local_binary_pattern
+135,mean_lbp_hist_bin22,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 22）- テクスチャパターン,scikit-image local_binary_pattern
+136,mean_lbp_hist_bin23,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 23）- テクスチャパターン,scikit-image local_binary_pattern
+137,mean_lbp_hist_bin24,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 24）- テクスチャパターン,scikit-image local_binary_pattern
+138,mean_lbp_hist_bin25,LBP (Local Binary Pattern),フレーム平均,フレーム平均: LBPヒストグラム（bin 25）- テクスチャパターン,scikit-image local_binary_pattern
+139,mean_hog_mean,HOG (Histogram of Oriented Gradients),フレーム平均,フレーム平均: HOG特徴量の平均,scikit-image hog
+140,mean_hog_std,HOG (Histogram of Oriented Gradients),フレーム平均,フレーム平均: HOG特徴量の標準偏差,scikit-image hog
+141,mean_hog_max,HOG (Histogram of Oriented Gradients),フレーム平均,フレーム平均: HOG特徴量の最大値,scikit-image hog
+142,mean_hog_min,HOG (Histogram of Oriented Gradients),フレーム平均,フレーム平均: HOG特徴量の最小値,scikit-image hog
+143,mean_hog_p25,HOG (Histogram of Oriented Gradients),フレーム平均,フレーム平均: HOG特徴量の25パーセンタイル,scikit-image hog
+144,mean_hog_p75,HOG (Histogram of Oriented Gradients),フレーム平均,フレーム平均: HOG特徴量の75パーセンタイル,scikit-image hog
+145,mean_edge_density,Edge Features,フレーム平均,フレーム平均: Cannyエッジ検出による密度,OpenCV Canny/Sobel
+146,mean_gradient_magnitude_mean,Edge Features,フレーム平均,フレーム平均: Sobel勾配強度の平均,OpenCV Canny/Sobel
+147,mean_gradient_magnitude_std,Edge Features,フレーム平均,フレーム平均: Sobel勾配強度の標準偏差,OpenCV Canny/Sobel
+148,mean_gradient_magnitude_max,Edge Features,フレーム平均,フレーム平均: Sobel勾配強度の最大値,OpenCV Canny/Sobel
+149,mean_stat_R_mean,Statistical Features,フレーム平均,フレーム平均: Rチャンネルの平均値,NumPy/SciPy stats
+150,mean_stat_R_std,Statistical Features,フレーム平均,フレーム平均: Rチャンネルの標準偏差,NumPy/SciPy stats
+151,mean_stat_R_skew,Statistical Features,フレーム平均,フレーム平均: Rチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+152,mean_stat_R_kurtosis,Statistical Features,フレーム平均,フレーム平均: Rチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+153,mean_stat_R_p10,Statistical Features,フレーム平均,フレーム平均: Rチャンネルの10パーセンタイル,NumPy/SciPy stats
+154,mean_stat_R_p90,Statistical Features,フレーム平均,フレーム平均: Rチャンネルの90パーセンタイル,NumPy/SciPy stats
+155,mean_stat_G_mean,Statistical Features,フレーム平均,フレーム平均: Gチャンネルの平均値,NumPy/SciPy stats
+156,mean_stat_G_std,Statistical Features,フレーム平均,フレーム平均: Gチャンネルの標準偏差,NumPy/SciPy stats
+157,mean_stat_G_skew,Statistical Features,フレーム平均,フレーム平均: Gチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+158,mean_stat_G_kurtosis,Statistical Features,フレーム平均,フレーム平均: Gチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+159,mean_stat_G_p10,Statistical Features,フレーム平均,フレーム平均: Gチャンネルの10パーセンタイル,NumPy/SciPy stats
+160,mean_stat_G_p90,Statistical Features,フレーム平均,フレーム平均: Gチャンネルの90パーセンタイル,NumPy/SciPy stats
+161,mean_stat_B_mean,Statistical Features,フレーム平均,フレーム平均: Bチャンネルの平均値,NumPy/SciPy stats
+162,mean_stat_B_std,Statistical Features,フレーム平均,フレーム平均: Bチャンネルの標準偏差,NumPy/SciPy stats
+163,mean_stat_B_skew,Statistical Features,フレーム平均,フレーム平均: Bチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+164,mean_stat_B_kurtosis,Statistical Features,フレーム平均,フレーム平均: Bチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+165,mean_stat_B_p10,Statistical Features,フレーム平均,フレーム平均: Bチャンネルの10パーセンタイル,NumPy/SciPy stats
+166,mean_stat_B_p90,Statistical Features,フレーム平均,フレーム平均: Bチャンネルの90パーセンタイル,NumPy/SciPy stats
+167,mean_stat_gray_mean,Statistical Features,フレーム平均,フレーム平均: グレースケールの平均値,NumPy/SciPy stats
+168,mean_stat_gray_std,Statistical Features,フレーム平均,フレーム平均: グレースケールの標準偏差,NumPy/SciPy stats
+169,mean_stat_gray_skew,Statistical Features,フレーム平均,フレーム平均: グレースケールの歪度（分布の非対称性）,NumPy/SciPy stats
+170,mean_stat_gray_kurtosis,Statistical Features,フレーム平均,フレーム平均: グレースケールの尖度（分布の尖り）,NumPy/SciPy stats
+171,mean_fft_low_freq_ratio,FFT Features,フレーム平均,フレーム平均: 2Dフーリエ変換: 低周波成分の比率,NumPy FFT
+172,mean_fft_mid_freq_ratio,FFT Features,フレーム平均,フレーム平均: 2Dフーリエ変換: 中周波成分の比率,NumPy FFT
+173,mean_fft_high_freq_ratio,FFT Features,フレーム平均,フレーム平均: 2Dフーリエ変換: 高周波成分の比率,NumPy FFT
+174,mean_fft_magnitude_mean,FFT Features,フレーム平均,フレーム平均: 2Dフーリエ変換: パワースペクトルの平均,NumPy FFT
+175,mean_fft_magnitude_std,FFT Features,フレーム平均,フレーム平均: 2Dフーリエ変換: パワースペクトルの標準偏差,NumPy FFT
+176,mean_spatial_centroid_x,Spatial Distribution,フレーム平均,フレーム平均: 空間分布: 重心X座標（正規化）,OpenCV moments
+177,mean_spatial_centroid_y,Spatial Distribution,フレーム平均,フレーム平均: 空間分布: 重心Y座標（正規化）,OpenCV moments
+178,mean_spatial_variance_x,Spatial Distribution,フレーム平均,フレーム平均: 空間分布: X方向の分散（正規化）,OpenCV moments
+179,mean_spatial_variance_y,Spatial Distribution,フレーム平均,フレーム平均: 空間分布: Y方向の分散（正規化）,OpenCV moments
+180,mean_spatial_spread,Spatial Distribution,フレーム平均,フレーム平均: 空間分布: 広がり（正規化）,OpenCV moments
+181,mean_spatial_quadrant_TL,Spatial Distribution,フレーム平均,フレーム平均: 空間分布: 左上象限の分布比率,OpenCV moments
+182,mean_spatial_quadrant_TR,Spatial Distribution,フレーム平均,フレーム平均: 空間分布: 右上象限の分布比率,OpenCV moments
+183,mean_spatial_quadrant_BL,Spatial Distribution,フレーム平均,フレーム平均: 空間分布: 左下象限の分布比率,OpenCV moments
+184,mean_spatial_quadrant_BR,Spatial Distribution,フレーム平均,フレーム平均: 空間分布: 右下象限の分布比率,OpenCV moments
+185,std_color_hist_R_bin0,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+186,std_color_hist_R_bin1,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+187,std_color_hist_R_bin2,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+188,std_color_hist_R_bin3,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+189,std_color_hist_R_bin4,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+190,std_color_hist_R_bin5,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+191,std_color_hist_R_bin6,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+192,std_color_hist_R_bin7,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+193,std_color_hist_R_bin8,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+194,std_color_hist_R_bin9,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+195,std_color_hist_R_bin10,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+196,std_color_hist_R_bin11,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+197,std_color_hist_R_bin12,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+198,std_color_hist_R_bin13,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+199,std_color_hist_R_bin14,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+200,std_color_hist_R_bin15,Color Histogram,フレーム標準偏差,フレーム標準偏差: Rチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+201,std_color_hist_G_bin0,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+202,std_color_hist_G_bin1,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+203,std_color_hist_G_bin2,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+204,std_color_hist_G_bin3,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+205,std_color_hist_G_bin4,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+206,std_color_hist_G_bin5,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+207,std_color_hist_G_bin6,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+208,std_color_hist_G_bin7,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+209,std_color_hist_G_bin8,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+210,std_color_hist_G_bin9,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+211,std_color_hist_G_bin10,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+212,std_color_hist_G_bin11,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+213,std_color_hist_G_bin12,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+214,std_color_hist_G_bin13,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+215,std_color_hist_G_bin14,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+216,std_color_hist_G_bin15,Color Histogram,フレーム標準偏差,フレーム標準偏差: Gチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+217,std_color_hist_B_bin0,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+218,std_color_hist_B_bin1,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+219,std_color_hist_B_bin2,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+220,std_color_hist_B_bin3,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+221,std_color_hist_B_bin4,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+222,std_color_hist_B_bin5,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+223,std_color_hist_B_bin6,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+224,std_color_hist_B_bin7,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+225,std_color_hist_B_bin8,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+226,std_color_hist_B_bin9,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+227,std_color_hist_B_bin10,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+228,std_color_hist_B_bin11,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+229,std_color_hist_B_bin12,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+230,std_color_hist_B_bin13,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+231,std_color_hist_B_bin14,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+232,std_color_hist_B_bin15,Color Histogram,フレーム標準偏差,フレーム標準偏差: Bチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+233,std_hsv_hist_H_bin0,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+234,std_hsv_hist_H_bin1,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+235,std_hsv_hist_H_bin2,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+236,std_hsv_hist_H_bin3,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+237,std_hsv_hist_H_bin4,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+238,std_hsv_hist_H_bin5,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+239,std_hsv_hist_H_bin6,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+240,std_hsv_hist_H_bin7,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+241,std_hsv_hist_H_bin8,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+242,std_hsv_hist_H_bin9,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+243,std_hsv_hist_H_bin10,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+244,std_hsv_hist_H_bin11,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+245,std_hsv_hist_H_bin12,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+246,std_hsv_hist_H_bin13,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+247,std_hsv_hist_H_bin14,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+248,std_hsv_hist_H_bin15,HSV Histogram,フレーム標準偏差,フレーム標準偏差: HueチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+249,std_hsv_hist_S_bin0,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+250,std_hsv_hist_S_bin1,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+251,std_hsv_hist_S_bin2,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+252,std_hsv_hist_S_bin3,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+253,std_hsv_hist_S_bin4,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+254,std_hsv_hist_S_bin5,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+255,std_hsv_hist_S_bin6,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+256,std_hsv_hist_S_bin7,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+257,std_hsv_hist_S_bin8,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+258,std_hsv_hist_S_bin9,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+259,std_hsv_hist_S_bin10,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+260,std_hsv_hist_S_bin11,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+261,std_hsv_hist_S_bin12,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+262,std_hsv_hist_S_bin13,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+263,std_hsv_hist_S_bin14,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+264,std_hsv_hist_S_bin15,HSV Histogram,フレーム標準偏差,フレーム標準偏差: SaturationチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+265,std_hsv_hist_V_bin0,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+266,std_hsv_hist_V_bin1,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+267,std_hsv_hist_V_bin2,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+268,std_hsv_hist_V_bin3,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+269,std_hsv_hist_V_bin4,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+270,std_hsv_hist_V_bin5,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+271,std_hsv_hist_V_bin6,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+272,std_hsv_hist_V_bin7,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+273,std_hsv_hist_V_bin8,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+274,std_hsv_hist_V_bin9,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+275,std_hsv_hist_V_bin10,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+276,std_hsv_hist_V_bin11,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+277,std_hsv_hist_V_bin12,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+278,std_hsv_hist_V_bin13,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+279,std_hsv_hist_V_bin14,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+280,std_hsv_hist_V_bin15,HSV Histogram,フレーム標準偏差,フレーム標準偏差: ValueチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+281,std_hu_moment_1,Hu Moments,フレーム標準偏差,フレーム標準偏差: Huモーメント 1: 回転・スケール・反転不変,OpenCV HuMoments
+282,std_hu_moment_2,Hu Moments,フレーム標準偏差,フレーム標準偏差: Huモーメント 2: 回転・スケール不変,OpenCV HuMoments
+283,std_hu_moment_3,Hu Moments,フレーム標準偏差,フレーム標準偏差: Huモーメント 3: 回転・スケール不変,OpenCV HuMoments
+284,std_hu_moment_4,Hu Moments,フレーム標準偏差,フレーム標準偏差: Huモーメント 4: 回転・スケール不変,OpenCV HuMoments
+285,std_hu_moment_5,Hu Moments,フレーム標準偏差,フレーム標準偏差: Huモーメント 5: 回転・スケール不変（符号反転あり）,OpenCV HuMoments
+286,std_hu_moment_6,Hu Moments,フレーム標準偏差,フレーム標準偏差: Huモーメント 6: 回転・スケール不変（符号反転あり）,OpenCV HuMoments
+287,std_hu_moment_7,Hu Moments,フレーム標準偏差,フレーム標準偏差: Huモーメント 7: 反転識別,OpenCV HuMoments
+288,std_glcm_contrast_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM コントラスト（局所的な輝度変化）のmean,scikit-image graycoprops
+289,std_glcm_contrast_std,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM コントラスト（局所的な輝度変化）のstd,scikit-image graycoprops
+290,std_glcm_dissimilarity_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM 非類似度（隣接ピクセルの差）のmean,scikit-image graycoprops
+291,std_glcm_dissimilarity_std,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM 非類似度（隣接ピクセルの差）のstd,scikit-image graycoprops
+292,std_glcm_homogeneity_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM 均質性（局所的な均一性）のmean,scikit-image graycoprops
+293,std_glcm_homogeneity_std,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM 均質性（局所的な均一性）のstd,scikit-image graycoprops
+294,std_glcm_energy_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM エネルギー（テクスチャの均一性）のmean,scikit-image graycoprops
+295,std_glcm_energy_std,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM エネルギー（テクスチャの均一性）のstd,scikit-image graycoprops
+296,std_glcm_correlation_mean,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM 相関（線形依存性）のmean,scikit-image graycoprops
+297,std_glcm_correlation_std,GLCM (Gray Level Co-occurrence Matrix),フレーム標準偏差,フレーム標準偏差: GLCM 相関（線形依存性）のstd,scikit-image graycoprops
+298,std_lbp_hist_bin0,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 0）- テクスチャパターン,scikit-image local_binary_pattern
+299,std_lbp_hist_bin1,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 1）- テクスチャパターン,scikit-image local_binary_pattern
+300,std_lbp_hist_bin2,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 2）- テクスチャパターン,scikit-image local_binary_pattern
+301,std_lbp_hist_bin3,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 3）- テクスチャパターン,scikit-image local_binary_pattern
+302,std_lbp_hist_bin4,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 4）- テクスチャパターン,scikit-image local_binary_pattern
+303,std_lbp_hist_bin5,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 5）- テクスチャパターン,scikit-image local_binary_pattern
+304,std_lbp_hist_bin6,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 6）- テクスチャパターン,scikit-image local_binary_pattern
+305,std_lbp_hist_bin7,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 7）- テクスチャパターン,scikit-image local_binary_pattern
+306,std_lbp_hist_bin8,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 8）- テクスチャパターン,scikit-image local_binary_pattern
+307,std_lbp_hist_bin9,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 9）- テクスチャパターン,scikit-image local_binary_pattern
+308,std_lbp_hist_bin10,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 10）- テクスチャパターン,scikit-image local_binary_pattern
+309,std_lbp_hist_bin11,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 11）- テクスチャパターン,scikit-image local_binary_pattern
+310,std_lbp_hist_bin12,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 12）- テクスチャパターン,scikit-image local_binary_pattern
+311,std_lbp_hist_bin13,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 13）- テクスチャパターン,scikit-image local_binary_pattern
+312,std_lbp_hist_bin14,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 14）- テクスチャパターン,scikit-image local_binary_pattern
+313,std_lbp_hist_bin15,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 15）- テクスチャパターン,scikit-image local_binary_pattern
+314,std_lbp_hist_bin16,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 16）- テクスチャパターン,scikit-image local_binary_pattern
+315,std_lbp_hist_bin17,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 17）- テクスチャパターン,scikit-image local_binary_pattern
+316,std_lbp_hist_bin18,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 18）- テクスチャパターン,scikit-image local_binary_pattern
+317,std_lbp_hist_bin19,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 19）- テクスチャパターン,scikit-image local_binary_pattern
+318,std_lbp_hist_bin20,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 20）- テクスチャパターン,scikit-image local_binary_pattern
+319,std_lbp_hist_bin21,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 21）- テクスチャパターン,scikit-image local_binary_pattern
+320,std_lbp_hist_bin22,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 22）- テクスチャパターン,scikit-image local_binary_pattern
+321,std_lbp_hist_bin23,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 23）- テクスチャパターン,scikit-image local_binary_pattern
+322,std_lbp_hist_bin24,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 24）- テクスチャパターン,scikit-image local_binary_pattern
+323,std_lbp_hist_bin25,LBP (Local Binary Pattern),フレーム標準偏差,フレーム標準偏差: LBPヒストグラム（bin 25）- テクスチャパターン,scikit-image local_binary_pattern
+324,std_hog_mean,HOG (Histogram of Oriented Gradients),フレーム標準偏差,フレーム標準偏差: HOG特徴量の平均,scikit-image hog
+325,std_hog_std,HOG (Histogram of Oriented Gradients),フレーム標準偏差,フレーム標準偏差: HOG特徴量の標準偏差,scikit-image hog
+326,std_hog_max,HOG (Histogram of Oriented Gradients),フレーム標準偏差,フレーム標準偏差: HOG特徴量の最大値,scikit-image hog
+327,std_hog_min,HOG (Histogram of Oriented Gradients),フレーム標準偏差,フレーム標準偏差: HOG特徴量の最小値,scikit-image hog
+328,std_hog_p25,HOG (Histogram of Oriented Gradients),フレーム標準偏差,フレーム標準偏差: HOG特徴量の25パーセンタイル,scikit-image hog
+329,std_hog_p75,HOG (Histogram of Oriented Gradients),フレーム標準偏差,フレーム標準偏差: HOG特徴量の75パーセンタイル,scikit-image hog
+330,std_edge_density,Edge Features,フレーム標準偏差,フレーム標準偏差: Cannyエッジ検出による密度,OpenCV Canny/Sobel
+331,std_gradient_magnitude_mean,Edge Features,フレーム標準偏差,フレーム標準偏差: Sobel勾配強度の平均,OpenCV Canny/Sobel
+332,std_gradient_magnitude_std,Edge Features,フレーム標準偏差,フレーム標準偏差: Sobel勾配強度の標準偏差,OpenCV Canny/Sobel
+333,std_gradient_magnitude_max,Edge Features,フレーム標準偏差,フレーム標準偏差: Sobel勾配強度の最大値,OpenCV Canny/Sobel
+334,std_stat_R_mean,Statistical Features,フレーム標準偏差,フレーム標準偏差: Rチャンネルの平均値,NumPy/SciPy stats
+335,std_stat_R_std,Statistical Features,フレーム標準偏差,フレーム標準偏差: Rチャンネルの標準偏差,NumPy/SciPy stats
+336,std_stat_R_skew,Statistical Features,フレーム標準偏差,フレーム標準偏差: Rチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+337,std_stat_R_kurtosis,Statistical Features,フレーム標準偏差,フレーム標準偏差: Rチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+338,std_stat_R_p10,Statistical Features,フレーム標準偏差,フレーム標準偏差: Rチャンネルの10パーセンタイル,NumPy/SciPy stats
+339,std_stat_R_p90,Statistical Features,フレーム標準偏差,フレーム標準偏差: Rチャンネルの90パーセンタイル,NumPy/SciPy stats
+340,std_stat_G_mean,Statistical Features,フレーム標準偏差,フレーム標準偏差: Gチャンネルの平均値,NumPy/SciPy stats
+341,std_stat_G_std,Statistical Features,フレーム標準偏差,フレーム標準偏差: Gチャンネルの標準偏差,NumPy/SciPy stats
+342,std_stat_G_skew,Statistical Features,フレーム標準偏差,フレーム標準偏差: Gチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+343,std_stat_G_kurtosis,Statistical Features,フレーム標準偏差,フレーム標準偏差: Gチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+344,std_stat_G_p10,Statistical Features,フレーム標準偏差,フレーム標準偏差: Gチャンネルの10パーセンタイル,NumPy/SciPy stats
+345,std_stat_G_p90,Statistical Features,フレーム標準偏差,フレーム標準偏差: Gチャンネルの90パーセンタイル,NumPy/SciPy stats
+346,std_stat_B_mean,Statistical Features,フレーム標準偏差,フレーム標準偏差: Bチャンネルの平均値,NumPy/SciPy stats
+347,std_stat_B_std,Statistical Features,フレーム標準偏差,フレーム標準偏差: Bチャンネルの標準偏差,NumPy/SciPy stats
+348,std_stat_B_skew,Statistical Features,フレーム標準偏差,フレーム標準偏差: Bチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+349,std_stat_B_kurtosis,Statistical Features,フレーム標準偏差,フレーム標準偏差: Bチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+350,std_stat_B_p10,Statistical Features,フレーム標準偏差,フレーム標準偏差: Bチャンネルの10パーセンタイル,NumPy/SciPy stats
+351,std_stat_B_p90,Statistical Features,フレーム標準偏差,フレーム標準偏差: Bチャンネルの90パーセンタイル,NumPy/SciPy stats
+352,std_stat_gray_mean,Statistical Features,フレーム標準偏差,フレーム標準偏差: グレースケールの平均値,NumPy/SciPy stats
+353,std_stat_gray_std,Statistical Features,フレーム標準偏差,フレーム標準偏差: グレースケールの標準偏差,NumPy/SciPy stats
+354,std_stat_gray_skew,Statistical Features,フレーム標準偏差,フレーム標準偏差: グレースケールの歪度（分布の非対称性）,NumPy/SciPy stats
+355,std_stat_gray_kurtosis,Statistical Features,フレーム標準偏差,フレーム標準偏差: グレースケールの尖度（分布の尖り）,NumPy/SciPy stats
+356,std_fft_low_freq_ratio,FFT Features,フレーム標準偏差,フレーム標準偏差: 2Dフーリエ変換: 低周波成分の比率,NumPy FFT
+357,std_fft_mid_freq_ratio,FFT Features,フレーム標準偏差,フレーム標準偏差: 2Dフーリエ変換: 中周波成分の比率,NumPy FFT
+358,std_fft_high_freq_ratio,FFT Features,フレーム標準偏差,フレーム標準偏差: 2Dフーリエ変換: 高周波成分の比率,NumPy FFT
+359,std_fft_magnitude_mean,FFT Features,フレーム標準偏差,フレーム標準偏差: 2Dフーリエ変換: パワースペクトルの平均,NumPy FFT
+360,std_fft_magnitude_std,FFT Features,フレーム標準偏差,フレーム標準偏差: 2Dフーリエ変換: パワースペクトルの標準偏差,NumPy FFT
+361,std_spatial_centroid_x,Spatial Distribution,フレーム標準偏差,フレーム標準偏差: 空間分布: 重心X座標（正規化）,OpenCV moments
+362,std_spatial_centroid_y,Spatial Distribution,フレーム標準偏差,フレーム標準偏差: 空間分布: 重心Y座標（正規化）,OpenCV moments
+363,std_spatial_variance_x,Spatial Distribution,フレーム標準偏差,フレーム標準偏差: 空間分布: X方向の分散（正規化）,OpenCV moments
+364,std_spatial_variance_y,Spatial Distribution,フレーム標準偏差,フレーム標準偏差: 空間分布: Y方向の分散（正規化）,OpenCV moments
+365,std_spatial_spread,Spatial Distribution,フレーム標準偏差,フレーム標準偏差: 空間分布: 広がり（正規化）,OpenCV moments
+366,std_spatial_quadrant_TL,Spatial Distribution,フレーム標準偏差,フレーム標準偏差: 空間分布: 左上象限の分布比率,OpenCV moments
+367,std_spatial_quadrant_TR,Spatial Distribution,フレーム標準偏差,フレーム標準偏差: 空間分布: 右上象限の分布比率,OpenCV moments
+368,std_spatial_quadrant_BL,Spatial Distribution,フレーム標準偏差,フレーム標準偏差: 空間分布: 左下象限の分布比率,OpenCV moments
+369,std_spatial_quadrant_BR,Spatial Distribution,フレーム標準偏差,フレーム標準偏差: 空間分布: 右下象限の分布比率,OpenCV moments
+370,temporal_mean_color_hist_R_bin0,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+371,temporal_mean_color_hist_R_bin1,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+372,temporal_mean_color_hist_R_bin2,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+373,temporal_mean_color_hist_R_bin3,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+374,temporal_mean_color_hist_R_bin4,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+375,temporal_mean_color_hist_R_bin5,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+376,temporal_mean_color_hist_R_bin6,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+377,temporal_mean_color_hist_R_bin7,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+378,temporal_mean_color_hist_R_bin8,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+379,temporal_mean_color_hist_R_bin9,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+380,temporal_mean_color_hist_R_bin10,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+381,temporal_mean_color_hist_R_bin11,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+382,temporal_mean_color_hist_R_bin12,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+383,temporal_mean_color_hist_R_bin13,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+384,temporal_mean_color_hist_R_bin14,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+385,temporal_mean_color_hist_R_bin15,Color Histogram,時間変化の平均,時間変化の平均: Rチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+386,temporal_mean_color_hist_G_bin0,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+387,temporal_mean_color_hist_G_bin1,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+388,temporal_mean_color_hist_G_bin2,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+389,temporal_mean_color_hist_G_bin3,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+390,temporal_mean_color_hist_G_bin4,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+391,temporal_mean_color_hist_G_bin5,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+392,temporal_mean_color_hist_G_bin6,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+393,temporal_mean_color_hist_G_bin7,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+394,temporal_mean_color_hist_G_bin8,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+395,temporal_mean_color_hist_G_bin9,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+396,temporal_mean_color_hist_G_bin10,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+397,temporal_mean_color_hist_G_bin11,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+398,temporal_mean_color_hist_G_bin12,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+399,temporal_mean_color_hist_G_bin13,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+400,temporal_mean_color_hist_G_bin14,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+401,temporal_mean_color_hist_G_bin15,Color Histogram,時間変化の平均,時間変化の平均: Gチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+402,temporal_mean_color_hist_B_bin0,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+403,temporal_mean_color_hist_B_bin1,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+404,temporal_mean_color_hist_B_bin2,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+405,temporal_mean_color_hist_B_bin3,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+406,temporal_mean_color_hist_B_bin4,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+407,temporal_mean_color_hist_B_bin5,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+408,temporal_mean_color_hist_B_bin6,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+409,temporal_mean_color_hist_B_bin7,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+410,temporal_mean_color_hist_B_bin8,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+411,temporal_mean_color_hist_B_bin9,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+412,temporal_mean_color_hist_B_bin10,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+413,temporal_mean_color_hist_B_bin11,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+414,temporal_mean_color_hist_B_bin12,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+415,temporal_mean_color_hist_B_bin13,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+416,temporal_mean_color_hist_B_bin14,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+417,temporal_mean_color_hist_B_bin15,Color Histogram,時間変化の平均,時間変化の平均: Bチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+418,temporal_mean_hsv_hist_H_bin0,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+419,temporal_mean_hsv_hist_H_bin1,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+420,temporal_mean_hsv_hist_H_bin2,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+421,temporal_mean_hsv_hist_H_bin3,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+422,temporal_mean_hsv_hist_H_bin4,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+423,temporal_mean_hsv_hist_H_bin5,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+424,temporal_mean_hsv_hist_H_bin6,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+425,temporal_mean_hsv_hist_H_bin7,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+426,temporal_mean_hsv_hist_H_bin8,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+427,temporal_mean_hsv_hist_H_bin9,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+428,temporal_mean_hsv_hist_H_bin10,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+429,temporal_mean_hsv_hist_H_bin11,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+430,temporal_mean_hsv_hist_H_bin12,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+431,temporal_mean_hsv_hist_H_bin13,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+432,temporal_mean_hsv_hist_H_bin14,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+433,temporal_mean_hsv_hist_H_bin15,HSV Histogram,時間変化の平均,時間変化の平均: HueチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+434,temporal_mean_hsv_hist_S_bin0,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+435,temporal_mean_hsv_hist_S_bin1,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+436,temporal_mean_hsv_hist_S_bin2,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+437,temporal_mean_hsv_hist_S_bin3,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+438,temporal_mean_hsv_hist_S_bin4,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+439,temporal_mean_hsv_hist_S_bin5,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+440,temporal_mean_hsv_hist_S_bin6,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+441,temporal_mean_hsv_hist_S_bin7,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+442,temporal_mean_hsv_hist_S_bin8,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+443,temporal_mean_hsv_hist_S_bin9,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+444,temporal_mean_hsv_hist_S_bin10,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+445,temporal_mean_hsv_hist_S_bin11,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+446,temporal_mean_hsv_hist_S_bin12,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+447,temporal_mean_hsv_hist_S_bin13,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+448,temporal_mean_hsv_hist_S_bin14,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+449,temporal_mean_hsv_hist_S_bin15,HSV Histogram,時間変化の平均,時間変化の平均: SaturationチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+450,temporal_mean_hsv_hist_V_bin0,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+451,temporal_mean_hsv_hist_V_bin1,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+452,temporal_mean_hsv_hist_V_bin2,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+453,temporal_mean_hsv_hist_V_bin3,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+454,temporal_mean_hsv_hist_V_bin4,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+455,temporal_mean_hsv_hist_V_bin5,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+456,temporal_mean_hsv_hist_V_bin6,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+457,temporal_mean_hsv_hist_V_bin7,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+458,temporal_mean_hsv_hist_V_bin8,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+459,temporal_mean_hsv_hist_V_bin9,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+460,temporal_mean_hsv_hist_V_bin10,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+461,temporal_mean_hsv_hist_V_bin11,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+462,temporal_mean_hsv_hist_V_bin12,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+463,temporal_mean_hsv_hist_V_bin13,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+464,temporal_mean_hsv_hist_V_bin14,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+465,temporal_mean_hsv_hist_V_bin15,HSV Histogram,時間変化の平均,時間変化の平均: ValueチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+466,temporal_mean_hu_moment_1,Hu Moments,時間変化の平均,時間変化の平均: Huモーメント 1: 回転・スケール・反転不変,OpenCV HuMoments
+467,temporal_mean_hu_moment_2,Hu Moments,時間変化の平均,時間変化の平均: Huモーメント 2: 回転・スケール不変,OpenCV HuMoments
+468,temporal_mean_hu_moment_3,Hu Moments,時間変化の平均,時間変化の平均: Huモーメント 3: 回転・スケール不変,OpenCV HuMoments
+469,temporal_mean_hu_moment_4,Hu Moments,時間変化の平均,時間変化の平均: Huモーメント 4: 回転・スケール不変,OpenCV HuMoments
+470,temporal_mean_hu_moment_5,Hu Moments,時間変化の平均,時間変化の平均: Huモーメント 5: 回転・スケール不変（符号反転あり）,OpenCV HuMoments
+471,temporal_mean_hu_moment_6,Hu Moments,時間変化の平均,時間変化の平均: Huモーメント 6: 回転・スケール不変（符号反転あり）,OpenCV HuMoments
+472,temporal_mean_hu_moment_7,Hu Moments,時間変化の平均,時間変化の平均: Huモーメント 7: 反転識別,OpenCV HuMoments
+473,temporal_mean_glcm_contrast_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM コントラスト（局所的な輝度変化）のmean,scikit-image graycoprops
+474,temporal_mean_glcm_contrast_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM コントラスト（局所的な輝度変化）のstd,scikit-image graycoprops
+475,temporal_mean_glcm_dissimilarity_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM 非類似度（隣接ピクセルの差）のmean,scikit-image graycoprops
+476,temporal_mean_glcm_dissimilarity_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM 非類似度（隣接ピクセルの差）のstd,scikit-image graycoprops
+477,temporal_mean_glcm_homogeneity_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM 均質性（局所的な均一性）のmean,scikit-image graycoprops
+478,temporal_mean_glcm_homogeneity_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM 均質性（局所的な均一性）のstd,scikit-image graycoprops
+479,temporal_mean_glcm_energy_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM エネルギー（テクスチャの均一性）のmean,scikit-image graycoprops
+480,temporal_mean_glcm_energy_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM エネルギー（テクスチャの均一性）のstd,scikit-image graycoprops
+481,temporal_mean_glcm_correlation_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM 相関（線形依存性）のmean,scikit-image graycoprops
+482,temporal_mean_glcm_correlation_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の平均,時間変化の平均: GLCM 相関（線形依存性）のstd,scikit-image graycoprops
+483,temporal_mean_lbp_hist_bin0,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 0）- テクスチャパターン,scikit-image local_binary_pattern
+484,temporal_mean_lbp_hist_bin1,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 1）- テクスチャパターン,scikit-image local_binary_pattern
+485,temporal_mean_lbp_hist_bin2,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 2）- テクスチャパターン,scikit-image local_binary_pattern
+486,temporal_mean_lbp_hist_bin3,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 3）- テクスチャパターン,scikit-image local_binary_pattern
+487,temporal_mean_lbp_hist_bin4,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 4）- テクスチャパターン,scikit-image local_binary_pattern
+488,temporal_mean_lbp_hist_bin5,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 5）- テクスチャパターン,scikit-image local_binary_pattern
+489,temporal_mean_lbp_hist_bin6,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 6）- テクスチャパターン,scikit-image local_binary_pattern
+490,temporal_mean_lbp_hist_bin7,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 7）- テクスチャパターン,scikit-image local_binary_pattern
+491,temporal_mean_lbp_hist_bin8,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 8）- テクスチャパターン,scikit-image local_binary_pattern
+492,temporal_mean_lbp_hist_bin9,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 9）- テクスチャパターン,scikit-image local_binary_pattern
+493,temporal_mean_lbp_hist_bin10,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 10）- テクスチャパターン,scikit-image local_binary_pattern
+494,temporal_mean_lbp_hist_bin11,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 11）- テクスチャパターン,scikit-image local_binary_pattern
+495,temporal_mean_lbp_hist_bin12,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 12）- テクスチャパターン,scikit-image local_binary_pattern
+496,temporal_mean_lbp_hist_bin13,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 13）- テクスチャパターン,scikit-image local_binary_pattern
+497,temporal_mean_lbp_hist_bin14,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 14）- テクスチャパターン,scikit-image local_binary_pattern
+498,temporal_mean_lbp_hist_bin15,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 15）- テクスチャパターン,scikit-image local_binary_pattern
+499,temporal_mean_lbp_hist_bin16,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 16）- テクスチャパターン,scikit-image local_binary_pattern
+500,temporal_mean_lbp_hist_bin17,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 17）- テクスチャパターン,scikit-image local_binary_pattern
+501,temporal_mean_lbp_hist_bin18,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 18）- テクスチャパターン,scikit-image local_binary_pattern
+502,temporal_mean_lbp_hist_bin19,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 19）- テクスチャパターン,scikit-image local_binary_pattern
+503,temporal_mean_lbp_hist_bin20,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 20）- テクスチャパターン,scikit-image local_binary_pattern
+504,temporal_mean_lbp_hist_bin21,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 21）- テクスチャパターン,scikit-image local_binary_pattern
+505,temporal_mean_lbp_hist_bin22,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 22）- テクスチャパターン,scikit-image local_binary_pattern
+506,temporal_mean_lbp_hist_bin23,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 23）- テクスチャパターン,scikit-image local_binary_pattern
+507,temporal_mean_lbp_hist_bin24,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 24）- テクスチャパターン,scikit-image local_binary_pattern
+508,temporal_mean_lbp_hist_bin25,LBP (Local Binary Pattern),時間変化の平均,時間変化の平均: LBPヒストグラム（bin 25）- テクスチャパターン,scikit-image local_binary_pattern
+509,temporal_mean_hog_mean,HOG (Histogram of Oriented Gradients),時間変化の平均,時間変化の平均: HOG特徴量の平均,scikit-image hog
+510,temporal_mean_hog_std,HOG (Histogram of Oriented Gradients),時間変化の平均,時間変化の平均: HOG特徴量の標準偏差,scikit-image hog
+511,temporal_mean_hog_max,HOG (Histogram of Oriented Gradients),時間変化の平均,時間変化の平均: HOG特徴量の最大値,scikit-image hog
+512,temporal_mean_hog_min,HOG (Histogram of Oriented Gradients),時間変化の平均,時間変化の平均: HOG特徴量の最小値,scikit-image hog
+513,temporal_mean_hog_p25,HOG (Histogram of Oriented Gradients),時間変化の平均,時間変化の平均: HOG特徴量の25パーセンタイル,scikit-image hog
+514,temporal_mean_hog_p75,HOG (Histogram of Oriented Gradients),時間変化の平均,時間変化の平均: HOG特徴量の75パーセンタイル,scikit-image hog
+515,temporal_mean_edge_density,Edge Features,時間変化の平均,時間変化の平均: Cannyエッジ検出による密度,OpenCV Canny/Sobel
+516,temporal_mean_gradient_magnitude_mean,Edge Features,時間変化の平均,時間変化の平均: Sobel勾配強度の平均,OpenCV Canny/Sobel
+517,temporal_mean_gradient_magnitude_std,Edge Features,時間変化の平均,時間変化の平均: Sobel勾配強度の標準偏差,OpenCV Canny/Sobel
+518,temporal_mean_gradient_magnitude_max,Edge Features,時間変化の平均,時間変化の平均: Sobel勾配強度の最大値,OpenCV Canny/Sobel
+519,temporal_mean_stat_R_mean,Statistical Features,時間変化の平均,時間変化の平均: Rチャンネルの平均値,NumPy/SciPy stats
+520,temporal_mean_stat_R_std,Statistical Features,時間変化の平均,時間変化の平均: Rチャンネルの標準偏差,NumPy/SciPy stats
+521,temporal_mean_stat_R_skew,Statistical Features,時間変化の平均,時間変化の平均: Rチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+522,temporal_mean_stat_R_kurtosis,Statistical Features,時間変化の平均,時間変化の平均: Rチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+523,temporal_mean_stat_R_p10,Statistical Features,時間変化の平均,時間変化の平均: Rチャンネルの10パーセンタイル,NumPy/SciPy stats
+524,temporal_mean_stat_R_p90,Statistical Features,時間変化の平均,時間変化の平均: Rチャンネルの90パーセンタイル,NumPy/SciPy stats
+525,temporal_mean_stat_G_mean,Statistical Features,時間変化の平均,時間変化の平均: Gチャンネルの平均値,NumPy/SciPy stats
+526,temporal_mean_stat_G_std,Statistical Features,時間変化の平均,時間変化の平均: Gチャンネルの標準偏差,NumPy/SciPy stats
+527,temporal_mean_stat_G_skew,Statistical Features,時間変化の平均,時間変化の平均: Gチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+528,temporal_mean_stat_G_kurtosis,Statistical Features,時間変化の平均,時間変化の平均: Gチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+529,temporal_mean_stat_G_p10,Statistical Features,時間変化の平均,時間変化の平均: Gチャンネルの10パーセンタイル,NumPy/SciPy stats
+530,temporal_mean_stat_G_p90,Statistical Features,時間変化の平均,時間変化の平均: Gチャンネルの90パーセンタイル,NumPy/SciPy stats
+531,temporal_mean_stat_B_mean,Statistical Features,時間変化の平均,時間変化の平均: Bチャンネルの平均値,NumPy/SciPy stats
+532,temporal_mean_stat_B_std,Statistical Features,時間変化の平均,時間変化の平均: Bチャンネルの標準偏差,NumPy/SciPy stats
+533,temporal_mean_stat_B_skew,Statistical Features,時間変化の平均,時間変化の平均: Bチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+534,temporal_mean_stat_B_kurtosis,Statistical Features,時間変化の平均,時間変化の平均: Bチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+535,temporal_mean_stat_B_p10,Statistical Features,時間変化の平均,時間変化の平均: Bチャンネルの10パーセンタイル,NumPy/SciPy stats
+536,temporal_mean_stat_B_p90,Statistical Features,時間変化の平均,時間変化の平均: Bチャンネルの90パーセンタイル,NumPy/SciPy stats
+537,temporal_mean_stat_gray_mean,Statistical Features,時間変化の平均,時間変化の平均: グレースケールの平均値,NumPy/SciPy stats
+538,temporal_mean_stat_gray_std,Statistical Features,時間変化の平均,時間変化の平均: グレースケールの標準偏差,NumPy/SciPy stats
+539,temporal_mean_stat_gray_skew,Statistical Features,時間変化の平均,時間変化の平均: グレースケールの歪度（分布の非対称性）,NumPy/SciPy stats
+540,temporal_mean_stat_gray_kurtosis,Statistical Features,時間変化の平均,時間変化の平均: グレースケールの尖度（分布の尖り）,NumPy/SciPy stats
+541,temporal_mean_fft_low_freq_ratio,FFT Features,時間変化の平均,時間変化の平均: 2Dフーリエ変換: 低周波成分の比率,NumPy FFT
+542,temporal_mean_fft_mid_freq_ratio,FFT Features,時間変化の平均,時間変化の平均: 2Dフーリエ変換: 中周波成分の比率,NumPy FFT
+543,temporal_mean_fft_high_freq_ratio,FFT Features,時間変化の平均,時間変化の平均: 2Dフーリエ変換: 高周波成分の比率,NumPy FFT
+544,temporal_mean_fft_magnitude_mean,FFT Features,時間変化の平均,時間変化の平均: 2Dフーリエ変換: パワースペクトルの平均,NumPy FFT
+545,temporal_mean_fft_magnitude_std,FFT Features,時間変化の平均,時間変化の平均: 2Dフーリエ変換: パワースペクトルの標準偏差,NumPy FFT
+546,temporal_mean_spatial_centroid_x,Spatial Distribution,時間変化の平均,時間変化の平均: 空間分布: 重心X座標（正規化）,OpenCV moments
+547,temporal_mean_spatial_centroid_y,Spatial Distribution,時間変化の平均,時間変化の平均: 空間分布: 重心Y座標（正規化）,OpenCV moments
+548,temporal_mean_spatial_variance_x,Spatial Distribution,時間変化の平均,時間変化の平均: 空間分布: X方向の分散（正規化）,OpenCV moments
+549,temporal_mean_spatial_variance_y,Spatial Distribution,時間変化の平均,時間変化の平均: 空間分布: Y方向の分散（正規化）,OpenCV moments
+550,temporal_mean_spatial_spread,Spatial Distribution,時間変化の平均,時間変化の平均: 空間分布: 広がり（正規化）,OpenCV moments
+551,temporal_mean_spatial_quadrant_TL,Spatial Distribution,時間変化の平均,時間変化の平均: 空間分布: 左上象限の分布比率,OpenCV moments
+552,temporal_mean_spatial_quadrant_TR,Spatial Distribution,時間変化の平均,時間変化の平均: 空間分布: 右上象限の分布比率,OpenCV moments
+553,temporal_mean_spatial_quadrant_BL,Spatial Distribution,時間変化の平均,時間変化の平均: 空間分布: 左下象限の分布比率,OpenCV moments
+554,temporal_mean_spatial_quadrant_BR,Spatial Distribution,時間変化の平均,時間変化の平均: 空間分布: 右下象限の分布比率,OpenCV moments
+555,temporal_std_color_hist_R_bin0,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+556,temporal_std_color_hist_R_bin1,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+557,temporal_std_color_hist_R_bin2,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+558,temporal_std_color_hist_R_bin3,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+559,temporal_std_color_hist_R_bin4,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+560,temporal_std_color_hist_R_bin5,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+561,temporal_std_color_hist_R_bin6,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+562,temporal_std_color_hist_R_bin7,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+563,temporal_std_color_hist_R_bin8,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+564,temporal_std_color_hist_R_bin9,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+565,temporal_std_color_hist_R_bin10,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+566,temporal_std_color_hist_R_bin11,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+567,temporal_std_color_hist_R_bin12,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+568,temporal_std_color_hist_R_bin13,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+569,temporal_std_color_hist_R_bin14,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+570,temporal_std_color_hist_R_bin15,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+571,temporal_std_color_hist_G_bin0,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+572,temporal_std_color_hist_G_bin1,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+573,temporal_std_color_hist_G_bin2,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+574,temporal_std_color_hist_G_bin3,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+575,temporal_std_color_hist_G_bin4,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+576,temporal_std_color_hist_G_bin5,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+577,temporal_std_color_hist_G_bin6,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+578,temporal_std_color_hist_G_bin7,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+579,temporal_std_color_hist_G_bin8,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+580,temporal_std_color_hist_G_bin9,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+581,temporal_std_color_hist_G_bin10,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+582,temporal_std_color_hist_G_bin11,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+583,temporal_std_color_hist_G_bin12,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+584,temporal_std_color_hist_G_bin13,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+585,temporal_std_color_hist_G_bin14,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+586,temporal_std_color_hist_G_bin15,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+587,temporal_std_color_hist_B_bin0,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 0）,OpenCV calcHist
+588,temporal_std_color_hist_B_bin1,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 1）,OpenCV calcHist
+589,temporal_std_color_hist_B_bin2,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 2）,OpenCV calcHist
+590,temporal_std_color_hist_B_bin3,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 3）,OpenCV calcHist
+591,temporal_std_color_hist_B_bin4,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 4）,OpenCV calcHist
+592,temporal_std_color_hist_B_bin5,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 5）,OpenCV calcHist
+593,temporal_std_color_hist_B_bin6,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 6）,OpenCV calcHist
+594,temporal_std_color_hist_B_bin7,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 7）,OpenCV calcHist
+595,temporal_std_color_hist_B_bin8,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 8）,OpenCV calcHist
+596,temporal_std_color_hist_B_bin9,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 9）,OpenCV calcHist
+597,temporal_std_color_hist_B_bin10,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 10）,OpenCV calcHist
+598,temporal_std_color_hist_B_bin11,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 11）,OpenCV calcHist
+599,temporal_std_color_hist_B_bin12,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 12）,OpenCV calcHist
+600,temporal_std_color_hist_B_bin13,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 13）,OpenCV calcHist
+601,temporal_std_color_hist_B_bin14,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 14）,OpenCV calcHist
+602,temporal_std_color_hist_B_bin15,Color Histogram,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの色ヒストグラム（bin 15）,OpenCV calcHist
+603,temporal_std_hsv_hist_H_bin0,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+604,temporal_std_hsv_hist_H_bin1,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+605,temporal_std_hsv_hist_H_bin2,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+606,temporal_std_hsv_hist_H_bin3,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+607,temporal_std_hsv_hist_H_bin4,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+608,temporal_std_hsv_hist_H_bin5,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+609,temporal_std_hsv_hist_H_bin6,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+610,temporal_std_hsv_hist_H_bin7,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+611,temporal_std_hsv_hist_H_bin8,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+612,temporal_std_hsv_hist_H_bin9,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+613,temporal_std_hsv_hist_H_bin10,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+614,temporal_std_hsv_hist_H_bin11,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+615,temporal_std_hsv_hist_H_bin12,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+616,temporal_std_hsv_hist_H_bin13,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+617,temporal_std_hsv_hist_H_bin14,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+618,temporal_std_hsv_hist_H_bin15,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: HueチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+619,temporal_std_hsv_hist_S_bin0,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+620,temporal_std_hsv_hist_S_bin1,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+621,temporal_std_hsv_hist_S_bin2,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+622,temporal_std_hsv_hist_S_bin3,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+623,temporal_std_hsv_hist_S_bin4,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+624,temporal_std_hsv_hist_S_bin5,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+625,temporal_std_hsv_hist_S_bin6,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+626,temporal_std_hsv_hist_S_bin7,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+627,temporal_std_hsv_hist_S_bin8,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+628,temporal_std_hsv_hist_S_bin9,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+629,temporal_std_hsv_hist_S_bin10,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+630,temporal_std_hsv_hist_S_bin11,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+631,temporal_std_hsv_hist_S_bin12,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+632,temporal_std_hsv_hist_S_bin13,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+633,temporal_std_hsv_hist_S_bin14,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+634,temporal_std_hsv_hist_S_bin15,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: SaturationチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+635,temporal_std_hsv_hist_V_bin0,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 0）,OpenCV calcHist
+636,temporal_std_hsv_hist_V_bin1,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 1）,OpenCV calcHist
+637,temporal_std_hsv_hist_V_bin2,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 2）,OpenCV calcHist
+638,temporal_std_hsv_hist_V_bin3,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 3）,OpenCV calcHist
+639,temporal_std_hsv_hist_V_bin4,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 4）,OpenCV calcHist
+640,temporal_std_hsv_hist_V_bin5,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 5）,OpenCV calcHist
+641,temporal_std_hsv_hist_V_bin6,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 6）,OpenCV calcHist
+642,temporal_std_hsv_hist_V_bin7,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 7）,OpenCV calcHist
+643,temporal_std_hsv_hist_V_bin8,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 8）,OpenCV calcHist
+644,temporal_std_hsv_hist_V_bin9,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 9）,OpenCV calcHist
+645,temporal_std_hsv_hist_V_bin10,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 10）,OpenCV calcHist
+646,temporal_std_hsv_hist_V_bin11,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 11）,OpenCV calcHist
+647,temporal_std_hsv_hist_V_bin12,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 12）,OpenCV calcHist
+648,temporal_std_hsv_hist_V_bin13,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 13）,OpenCV calcHist
+649,temporal_std_hsv_hist_V_bin14,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 14）,OpenCV calcHist
+650,temporal_std_hsv_hist_V_bin15,HSV Histogram,時間変化の標準偏差,時間変化の標準偏差: ValueチャンネルのHSVヒストグラム（bin 15）,OpenCV calcHist
+651,temporal_std_hu_moment_1,Hu Moments,時間変化の標準偏差,時間変化の標準偏差: Huモーメント 1: 回転・スケール・反転不変,OpenCV HuMoments
+652,temporal_std_hu_moment_2,Hu Moments,時間変化の標準偏差,時間変化の標準偏差: Huモーメント 2: 回転・スケール不変,OpenCV HuMoments
+653,temporal_std_hu_moment_3,Hu Moments,時間変化の標準偏差,時間変化の標準偏差: Huモーメント 3: 回転・スケール不変,OpenCV HuMoments
+654,temporal_std_hu_moment_4,Hu Moments,時間変化の標準偏差,時間変化の標準偏差: Huモーメント 4: 回転・スケール不変,OpenCV HuMoments
+655,temporal_std_hu_moment_5,Hu Moments,時間変化の標準偏差,時間変化の標準偏差: Huモーメント 5: 回転・スケール不変（符号反転あり）,OpenCV HuMoments
+656,temporal_std_hu_moment_6,Hu Moments,時間変化の標準偏差,時間変化の標準偏差: Huモーメント 6: 回転・スケール不変（符号反転あり）,OpenCV HuMoments
+657,temporal_std_hu_moment_7,Hu Moments,時間変化の標準偏差,時間変化の標準偏差: Huモーメント 7: 反転識別,OpenCV HuMoments
+658,temporal_std_glcm_contrast_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM コントラスト（局所的な輝度変化）のmean,scikit-image graycoprops
+659,temporal_std_glcm_contrast_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM コントラスト（局所的な輝度変化）のstd,scikit-image graycoprops
+660,temporal_std_glcm_dissimilarity_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM 非類似度（隣接ピクセルの差）のmean,scikit-image graycoprops
+661,temporal_std_glcm_dissimilarity_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM 非類似度（隣接ピクセルの差）のstd,scikit-image graycoprops
+662,temporal_std_glcm_homogeneity_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM 均質性（局所的な均一性）のmean,scikit-image graycoprops
+663,temporal_std_glcm_homogeneity_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM 均質性（局所的な均一性）のstd,scikit-image graycoprops
+664,temporal_std_glcm_energy_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM エネルギー（テクスチャの均一性）のmean,scikit-image graycoprops
+665,temporal_std_glcm_energy_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM エネルギー（テクスチャの均一性）のstd,scikit-image graycoprops
+666,temporal_std_glcm_correlation_mean,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM 相関（線形依存性）のmean,scikit-image graycoprops
+667,temporal_std_glcm_correlation_std,GLCM (Gray Level Co-occurrence Matrix),時間変化の標準偏差,時間変化の標準偏差: GLCM 相関（線形依存性）のstd,scikit-image graycoprops
+668,temporal_std_lbp_hist_bin0,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 0）- テクスチャパターン,scikit-image local_binary_pattern
+669,temporal_std_lbp_hist_bin1,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 1）- テクスチャパターン,scikit-image local_binary_pattern
+670,temporal_std_lbp_hist_bin2,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 2）- テクスチャパターン,scikit-image local_binary_pattern
+671,temporal_std_lbp_hist_bin3,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 3）- テクスチャパターン,scikit-image local_binary_pattern
+672,temporal_std_lbp_hist_bin4,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 4）- テクスチャパターン,scikit-image local_binary_pattern
+673,temporal_std_lbp_hist_bin5,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 5）- テクスチャパターン,scikit-image local_binary_pattern
+674,temporal_std_lbp_hist_bin6,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 6）- テクスチャパターン,scikit-image local_binary_pattern
+675,temporal_std_lbp_hist_bin7,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 7）- テクスチャパターン,scikit-image local_binary_pattern
+676,temporal_std_lbp_hist_bin8,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 8）- テクスチャパターン,scikit-image local_binary_pattern
+677,temporal_std_lbp_hist_bin9,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 9）- テクスチャパターン,scikit-image local_binary_pattern
+678,temporal_std_lbp_hist_bin10,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 10）- テクスチャパターン,scikit-image local_binary_pattern
+679,temporal_std_lbp_hist_bin11,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 11）- テクスチャパターン,scikit-image local_binary_pattern
+680,temporal_std_lbp_hist_bin12,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 12）- テクスチャパターン,scikit-image local_binary_pattern
+681,temporal_std_lbp_hist_bin13,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 13）- テクスチャパターン,scikit-image local_binary_pattern
+682,temporal_std_lbp_hist_bin14,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 14）- テクスチャパターン,scikit-image local_binary_pattern
+683,temporal_std_lbp_hist_bin15,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 15）- テクスチャパターン,scikit-image local_binary_pattern
+684,temporal_std_lbp_hist_bin16,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 16）- テクスチャパターン,scikit-image local_binary_pattern
+685,temporal_std_lbp_hist_bin17,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 17）- テクスチャパターン,scikit-image local_binary_pattern
+686,temporal_std_lbp_hist_bin18,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 18）- テクスチャパターン,scikit-image local_binary_pattern
+687,temporal_std_lbp_hist_bin19,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 19）- テクスチャパターン,scikit-image local_binary_pattern
+688,temporal_std_lbp_hist_bin20,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 20）- テクスチャパターン,scikit-image local_binary_pattern
+689,temporal_std_lbp_hist_bin21,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 21）- テクスチャパターン,scikit-image local_binary_pattern
+690,temporal_std_lbp_hist_bin22,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 22）- テクスチャパターン,scikit-image local_binary_pattern
+691,temporal_std_lbp_hist_bin23,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 23）- テクスチャパターン,scikit-image local_binary_pattern
+692,temporal_std_lbp_hist_bin24,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 24）- テクスチャパターン,scikit-image local_binary_pattern
+693,temporal_std_lbp_hist_bin25,LBP (Local Binary Pattern),時間変化の標準偏差,時間変化の標準偏差: LBPヒストグラム（bin 25）- テクスチャパターン,scikit-image local_binary_pattern
+694,temporal_std_hog_mean,HOG (Histogram of Oriented Gradients),時間変化の標準偏差,時間変化の標準偏差: HOG特徴量の平均,scikit-image hog
+695,temporal_std_hog_std,HOG (Histogram of Oriented Gradients),時間変化の標準偏差,時間変化の標準偏差: HOG特徴量の標準偏差,scikit-image hog
+696,temporal_std_hog_max,HOG (Histogram of Oriented Gradients),時間変化の標準偏差,時間変化の標準偏差: HOG特徴量の最大値,scikit-image hog
+697,temporal_std_hog_min,HOG (Histogram of Oriented Gradients),時間変化の標準偏差,時間変化の標準偏差: HOG特徴量の最小値,scikit-image hog
+698,temporal_std_hog_p25,HOG (Histogram of Oriented Gradients),時間変化の標準偏差,時間変化の標準偏差: HOG特徴量の25パーセンタイル,scikit-image hog
+699,temporal_std_hog_p75,HOG (Histogram of Oriented Gradients),時間変化の標準偏差,時間変化の標準偏差: HOG特徴量の75パーセンタイル,scikit-image hog
+700,temporal_std_edge_density,Edge Features,時間変化の標準偏差,時間変化の標準偏差: Cannyエッジ検出による密度,OpenCV Canny/Sobel
+701,temporal_std_gradient_magnitude_mean,Edge Features,時間変化の標準偏差,時間変化の標準偏差: Sobel勾配強度の平均,OpenCV Canny/Sobel
+702,temporal_std_gradient_magnitude_std,Edge Features,時間変化の標準偏差,時間変化の標準偏差: Sobel勾配強度の標準偏差,OpenCV Canny/Sobel
+703,temporal_std_gradient_magnitude_max,Edge Features,時間変化の標準偏差,時間変化の標準偏差: Sobel勾配強度の最大値,OpenCV Canny/Sobel
+704,temporal_std_stat_R_mean,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの平均値,NumPy/SciPy stats
+705,temporal_std_stat_R_std,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの標準偏差,NumPy/SciPy stats
+706,temporal_std_stat_R_skew,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+707,temporal_std_stat_R_kurtosis,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+708,temporal_std_stat_R_p10,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの10パーセンタイル,NumPy/SciPy stats
+709,temporal_std_stat_R_p90,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Rチャンネルの90パーセンタイル,NumPy/SciPy stats
+710,temporal_std_stat_G_mean,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの平均値,NumPy/SciPy stats
+711,temporal_std_stat_G_std,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの標準偏差,NumPy/SciPy stats
+712,temporal_std_stat_G_skew,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+713,temporal_std_stat_G_kurtosis,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+714,temporal_std_stat_G_p10,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの10パーセンタイル,NumPy/SciPy stats
+715,temporal_std_stat_G_p90,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Gチャンネルの90パーセンタイル,NumPy/SciPy stats
+716,temporal_std_stat_B_mean,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの平均値,NumPy/SciPy stats
+717,temporal_std_stat_B_std,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの標準偏差,NumPy/SciPy stats
+718,temporal_std_stat_B_skew,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの歪度（分布の非対称性）,NumPy/SciPy stats
+719,temporal_std_stat_B_kurtosis,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの尖度（分布の尖り）,NumPy/SciPy stats
+720,temporal_std_stat_B_p10,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの10パーセンタイル,NumPy/SciPy stats
+721,temporal_std_stat_B_p90,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: Bチャンネルの90パーセンタイル,NumPy/SciPy stats
+722,temporal_std_stat_gray_mean,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: グレースケールの平均値,NumPy/SciPy stats
+723,temporal_std_stat_gray_std,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: グレースケールの標準偏差,NumPy/SciPy stats
+724,temporal_std_stat_gray_skew,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: グレースケールの歪度（分布の非対称性）,NumPy/SciPy stats
+725,temporal_std_stat_gray_kurtosis,Statistical Features,時間変化の標準偏差,時間変化の標準偏差: グレースケールの尖度（分布の尖り）,NumPy/SciPy stats
+726,temporal_std_fft_low_freq_ratio,FFT Features,時間変化の標準偏差,時間変化の標準偏差: 2Dフーリエ変換: 低周波成分の比率,NumPy FFT
+727,temporal_std_fft_mid_freq_ratio,FFT Features,時間変化の標準偏差,時間変化の標準偏差: 2Dフーリエ変換: 中周波成分の比率,NumPy FFT
+728,temporal_std_fft_high_freq_ratio,FFT Features,時間変化の標準偏差,時間変化の標準偏差: 2Dフーリエ変換: 高周波成分の比率,NumPy FFT
+729,temporal_std_fft_magnitude_mean,FFT Features,時間変化の標準偏差,時間変化の標準偏差: 2Dフーリエ変換: パワースペクトルの平均,NumPy FFT
+730,temporal_std_fft_magnitude_std,FFT Features,時間変化の標準偏差,時間変化の標準偏差: 2Dフーリエ変換: パワースペクトルの標準偏差,NumPy FFT
+731,temporal_std_spatial_centroid_x,Spatial Distribution,時間変化の標準偏差,時間変化の標準偏差: 空間分布: 重心X座標（正規化）,OpenCV moments
+732,temporal_std_spatial_centroid_y,Spatial Distribution,時間変化の標準偏差,時間変化の標準偏差: 空間分布: 重心Y座標（正規化）,OpenCV moments
+733,temporal_std_spatial_variance_x,Spatial Distribution,時間変化の標準偏差,時間変化の標準偏差: 空間分布: X方向の分散（正規化）,OpenCV moments
+734,temporal_std_spatial_variance_y,Spatial Distribution,時間変化の標準偏差,時間変化の標準偏差: 空間分布: Y方向の分散（正規化）,OpenCV moments
+735,temporal_std_spatial_spread,Spatial Distribution,時間変化の標準偏差,時間変化の標準偏差: 空間分布: 広がり（正規化）,OpenCV moments
+736,temporal_std_spatial_quadrant_TL,Spatial Distribution,時間変化の標準偏差,時間変化の標準偏差: 空間分布: 左上象限の分布比率,OpenCV moments
+737,temporal_std_spatial_quadrant_TR,Spatial Distribution,時間変化の標準偏差,時間変化の標準偏差: 空間分布: 右上象限の分布比率,OpenCV moments
+738,temporal_std_spatial_quadrant_BL,Spatial Distribution,時間変化の標準偏差,時間変化の標準偏差: 空間分布: 左下象限の分布比率,OpenCV moments
+739,temporal_std_spatial_quadrant_BR,Spatial Distribution,時間変化の標準偏差,時間変化の標準偏差: 空間分布: 右下象限の分布比率,OpenCV moments

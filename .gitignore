@@ -1,0 +1,35 @@
+# Compiled binaries
+swarm
+swarm_debug
+*.o
+a.out
+
+# Temporary frame files
+frames_*/
+*.ppm
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated data (large files)
+gif/
+results/*.npy
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Obsolete files
+obsolete/
+

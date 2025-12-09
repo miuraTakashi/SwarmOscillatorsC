@@ -1,0 +1,11 @@
+﻿category,count,count_with_temporal
+Color Histogram,48,192
+Edge Features,4,16
+FFT Features,5,20
+GLCM (Gray Level Co-occurrence Matrix),10,40
+HOG (Histogram of Oriented Gradients),6,24
+HSV Histogram,48,192
+Hu Moments,7,28
+LBP (Local Binary Pattern),26,104
+Spatial Distribution,9,36
+Statistical Features,22,88
