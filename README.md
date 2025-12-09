@@ -189,6 +189,7 @@ python analyze_gifs.py [OPTIONS]
 Options:
   --cluster-only    保存済みfeature_vectors.npyを使用（特徴量抽出をスキップ）
   --n-clusters N    クラスタ数を手動指定（Davies-Bouldinの代わりに）
+  --no-parallel     並列処理を無効化（フリーズする場合に使用）
 ```
 
 ### 出力ファイル

@@ -924,6 +924,8 @@ def main():
                         help='Skip feature extraction and use saved feature_vectors.npy')
     parser.add_argument('--n-clusters', type=int, default=None,
                         help='Manually specify number of clusters (overrides Davies-Bouldin)')
+    parser.add_argument('--no-parallel', action='store_true',
+                        help='Disable parallel processing (use if multiprocessing freezes)')
     args = parser.parse_args()
     
     # resultsフォルダを作成
@@ -964,39 +966,50 @@ def main():
             valid_files = gif_files[:X.shape[0]]
             params_list = [parse_filename(os.path.basename(f)) for f in valid_files]
     else:
-        # 特徴量を並列抽出
+        # 特徴量を抽出
         features_list = []
         params_list = []
         valid_files = []
         
-        # 利用可能なCPUコア数を取得（全コアの75%を使用）
-        n_workers = max(1, int(multiprocessing.cpu_count() * 0.75))
-        print(f"Extracting features using {n_workers} workers...")
-        
-        # ProcessPoolExecutorで並列処理
-        with ProcessPoolExecutor(max_workers=n_workers) as executor:
-            # 全ファイルをサブミット
-            futures = {executor.submit(process_single_gif, gif_path): gif_path 
-                      for gif_path in gif_files}
-            
-            # tqdmで進捗表示しながら結果を収集
-            for future in tqdm(as_completed(futures), total=len(gif_files)):
-                gif_path, features, params = future.result()
+        if args.no_parallel:
+            # シーケンシャル処理（--no-parallel オプション指定時）
+            print("Extracting features (sequential mode)...")
+            for gif_path in tqdm(gif_files):
+                gif_path, features, params = process_single_gif(gif_path)
                 if features is not None:
                     features_list.append(features)
                     params_list.append(params)
                     valid_files.append(gif_path)
+        else:
+            # 並列処理
+            n_workers = max(1, int(multiprocessing.cpu_count() * 0.75))
+            print(f"Extracting features using {n_workers} workers...")
+            print("(Use --no-parallel if this freezes)")
+            
+            # ProcessPoolExecutorで並列処理
+            with ProcessPoolExecutor(max_workers=n_workers) as executor:
+                # 全ファイルをサブミット
+                futures = {executor.submit(process_single_gif, gif_path): gif_path 
+                          for gif_path in gif_files}
+                
+                # tqdmで進捗表示しながら結果を収集
+                for future in tqdm(as_completed(futures), total=len(gif_files)):
+                    gif_path, features, params = future.result()
+                    if features is not None:
+                        features_list.append(features)
+                        params_list.append(params)
+                        valid_files.append(gif_path)
+            
+            # 結果をファイル名でソート（順序を保持するため）
+            sorted_data = sorted(zip(valid_files, features_list, params_list), 
+                                key=lambda x: x[0])
+            valid_files = [x[0] for x in sorted_data]
+            features_list = [x[1] for x in sorted_data]
+            params_list = [x[2] for x in sorted_data]
         
         if not features_list:
             print("No valid features extracted")
             return
-        
-        # 結果をファイル名でソート（順序を保持するため）
-        sorted_data = sorted(zip(valid_files, features_list, params_list), 
-                            key=lambda x: x[0])
-        valid_files = [x[0] for x in sorted_data]
-        features_list = [x[1] for x in sorted_data]
-        params_list = [x[2] for x in sorted_data]
         
         # 特徴量行列
         X = np.array(features_list)
